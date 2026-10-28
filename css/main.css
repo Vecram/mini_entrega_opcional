@@ -1,0 +1,33 @@
+/* =========================================
+   // SCSS/main.scss
+   // Archivo fuente de estilos
+   // ========================================= */
+body {
+  background-color: #f4f7f9;
+  color: #333;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #3498db;
+}
+
+p {
+  line-height: 1.6;
+}
+
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 0.85;
+}
+
+/*# sourceMappingURL=main.css.map */
